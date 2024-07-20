@@ -17,7 +17,8 @@ body
 }
 .navbar
 {
-    background-image: linear-gradient(to left ,rgb(245, 39, 39),#DC143C);
+    background-image: linear-gradient(to left ,#D6B589,#D6B589);
+
     padding: 0 !important;
 }
 .navbar-brand img
@@ -53,7 +54,7 @@ body
 
 #Banner
 {
-    background-image: linear-gradient(to left ,rgb(245, 39, 39),#DC143C);
+    background-image: linear-gradient(to left ,#D6B589,#D6B589);
     padding: 5%;
     color: #fff;
     position: relative;
@@ -92,6 +93,7 @@ svg{
 #Services
 {
     padding: 80px 0px;
+    background-color: #FFFDF5;
 }
 .service-img
 {
@@ -111,7 +113,7 @@ svg{
 .s_title::before
 {
     content: '';
-    background: red;
+    background: #D6B589;
     margin-left: auto;
     margin-right: auto;
     height: 5px;
@@ -124,7 +126,7 @@ svg{
 .s_title::after
 {
     content: '';
-    background: red;
+    background: #D6B589;
     margin-left: auto;
     margin-right: auto;
     height: 0px;
@@ -140,14 +142,14 @@ svg{
     padding: 8px 25px;
     box-shadow: none;
     border-radius: 20px;
-    background-image: linear-gradient(to left ,rgb(245, 39, 39),#DC143C);
+    background-image: linear-gradient(to left ,#D6B589,#D6B589);
 }
 
 
 /*-----------------------------ABOUT US-------------------*/
 #About-Us
 {
-    background: #f8f9fa;
+    background: #FFFDF5;
     padding-bottom: 50px;
     padding-top: 50px;
 
@@ -173,11 +175,12 @@ svg{
 
 #Founders
 {
-    margin: 100px 0px;
+    background-color: #FFFDF5;
+    
 }
 .Founders
 {
-    border-left: 4px solid #f8f9fa;
+    border-left: 4px solid #FFFDF5;
     margin-top: 50px;
     margin-bottom: 50px;
 }
@@ -202,7 +205,7 @@ svg{
 
 #Contacts
 {
-    background: #f8f9fa;
+    background: #FFFDF5;
     padding: 100px 0;
 
 }
@@ -231,7 +234,7 @@ svg{
 
 #Footer
 {
-    background: linear-gradient(to left ,rgb(245, 39, 39),#DC143C);
+    background: linear-gradient(to left ,#D6B589,#D6B589);
     color: #fff;
 }
 .Footer-img
@@ -256,7 +259,7 @@ svg{
     text-align: center;
     padding-top: 7px;
     border-radius: 2px;
-    background-image: linear-gradient(to left ,rgb(245, 39, 39),#DC143C);
+    background-image: linear-gradient(to left ,#D6B589,#D6B589);
 }
 .Footer-box .form-control
 {
@@ -273,10 +276,10 @@ svg{
     border: none;
     border-radius: 0;
     margin-top: 30px;
-    background-image: linear-gradient(to left ,rgb(245, 39, 39),#DC143C);
+    background-image: linear-gradient(to left ,#D6B589,#D6B589);
 }
 hr{
-    background-color: #fff;
+    background-color: #FFFDF5;
 }
 .copyright
 {
